@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template_string, redirect, url_for
+flask flask import Flask, request, render_template_string, redirect, url_for
 import os
 import time
 import requests
